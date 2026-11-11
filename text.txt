@@ -1,1 +1,3 @@
 conflict of merge from one branch to another branch
+git clone & pull 
+updated text file from github
