@@ -1,0 +1,2 @@
+this is from feature branch ,
+- it is a new file with name filename as master branch 
