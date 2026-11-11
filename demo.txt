@@ -1,1 +1,5 @@
-this is from master branch , let's how conflict occurs
+
+
+
+
+this is from master as well as feature branch
